@@ -10,8 +10,8 @@ function App() {
     <div>
       Отправить запрос
       <button onClick={send}>Send</button>
-
-     
+    <br />
+     <a href="https://pay.fondy.eu/s/PN1WJ9UIGSX6qM">Оплатить что-то</a>
     </div>
   )
 }
